@@ -1,0 +1,35 @@
+{
+    "scores": 
+    {
+        "scores":   [
+      {
+        "user_name": "Samuel",
+        "score": 100
+      },
+      {
+        "user_name": "Mafe",
+        "score": 80
+      },
+      {
+        "user_name": "Sara",
+        "score": 50
+      },
+      {
+        "user_name": "Viviana",
+        "score": 48
+      },
+      {
+        "user_name": "Juan Esteban",
+        "score": 31
+      }
+      {
+        "user_name": "Mariana",
+        "score": 15
+      }
+      {
+        "user_name": "Sergio",
+        "score": 10
+      }
+        ] 
+    }
+  }
